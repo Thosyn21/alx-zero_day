@@ -1,1 +1,1 @@
-My fisrt readme
+My second attempt at GIT
